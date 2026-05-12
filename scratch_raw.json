@@ -1,0 +1,702 @@
+[
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Cuatro cursos con igual número de estudiantes presentan una prueba. Se comparan promedios del año anterior y actual: I (63/65), II (61/45), III (50/53), IV (53/54)[cite: 111, 114].",
+    "pregunta": "Al revisar los puntajes, una persona afirma que hubo un aumento en el puntaje respecto al año anterior. Esta afirmación es[cite: 115, 116]:",
+    "opciones": {
+      "A": "Correcta, ya que el promedio de la mayoría de los cursos aumentó respecto al año anterior[cite: 117].",
+      "B": "Incorrecta, ya que el promedio total en el año anterior es superior al promedio total en el año actual[cite: 118].",
+      "C": "Correcta, ya que al observar todos los promedios, el mayor corresponde al curso I en el año actual[cite: 119].",
+      "D": "Incorrecta, ya que se necesita el puntaje de cada estudiante para realizar la comparación[cite: 120]."
+    },
+    "correcta": "B",
+    "explicacion": "Al sumar los promedios del año anterior (227) y compararlos con los del actual (217), se evidencia una disminución global del rendimiento[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Una inversión en dólares tiene una tasa de cambio constante (1 USD = 4.000 COP) y una ganancia del 3%[cite: 122].",
+    "pregunta": "¿Es correcta la afirmación de que en pesos las ganancias también serán del 3%[cite: 124]?",
+    "opciones": {
+      "A": "Sí, porque la proporción de aumento es la misma sin importar la tasa[cite: 125].",
+      "B": "No, porque se requiere el valor exacto de la inversión[cite: 126].",
+      "C": "Sí, porque el 3% es una proporción fija y la tasa de cambio es constante[cite: 127].",
+      "D": "No, porque el incremento será mayor en pesos al ser 4.000 veces mayor el valor de cada dólar[cite: 128]."
+    },
+    "correcta": "C",
+    "explicacion": "Si la tasa de cambio no varía, cualquier incremento porcentual en la moneda base se traduce exactamente en el mismo porcentaje en la moneda de conversión[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Se deben organizar 140 estudiantes en 3 grupos usando franjas horarias: F1 (50 cupos, $35k), F2 (40 cupos, $40k), F3 (30 cupos, $50k), F4 (60 cupos, $45k)[cite: 133, 136].",
+    "pregunta": "¿La elección de las franjas 1, 3 y 4 garantiza el menor precio para los 140 estudiantes[cite: 138]?",
+    "opciones": {
+      "A": "Sí, porque suman exactamente 140 estudiantes[cite: 139].",
+      "B": "No, porque es posible obtener un precio menor eligiendo la franja 2 en lugar de la franja 3[cite: 140].",
+      "C": "Sí, porque se incluyó la franja 1 de menor precio[cite: 141].",
+      "D": "No, porque en la franja 3 la cantidad máxima es 30[cite: 142]."
+    },
+    "correcta": "B",
+    "explicacion": "La franja 2 es más barata ($40k) que la franja 3 ($50k). Al usar la franja 2 se ahorra dinero manteniendo la capacidad necesaria para cubrir a los alumnos[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Difícil",
+    "contexto": "Capacitación en 4 módulos. El módulo I tiene 40h a $35.000/h. Los cursos son de 20 a 30 personas[cite: 146, 147].",
+    "pregunta": "Si la empresa paga $4.200.000 por el módulo I para la dependencia 'Insumos', ¿cuántos empleados tiene[cite: 153]?",
+    "opciones": {
+      "A": "Entre 20 y 30 trabajadores[cite: 154].",
+      "B": "Entre 41 y 60 trabajadores[cite: 156].",
+      "C": "Entre 61 y 90 trabajadores[cite: 158].",
+      "D": "Entre 80 y 120 trabajadores[cite: 159]."
+    },
+    "correcta": "C",
+    "explicacion": "El costo por curso es 40h * $35k = $1.400.000. Como pagaron $4.2M, contrataron 3 cursos ($4.2M / $1.4M). Con 3 cursos de 20-30 personas, el total de empleados está entre 60 y 90[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Dependencia con 50 trabajadores. Módulo II (30h a $30.000/h)[cite: 146, 161].",
+    "pregunta": "¿Cuánto debería pagar cada trabajador si el costo se reparte equitativamente[cite: 161]?",
+    "opciones": {
+      "A": "$ 18.000[cite: 162].",
+      "B": "$ 36.000[cite: 163].",
+      "C": "$ 450.000[cite: 164].",
+      "D": "$ 900.000[cite: 165]."
+    },
+    "correcta": "B",
+    "explicacion": "Costo total = 30h * $30.000 * 2 cursos (porque el máximo por curso es 30 personas y son 50 empleados) = $1.800.000. Repartido entre 50: $36.000[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "La empresa paga $900.000 por 40 funcionarios de 'Importaciones'[cite: 167].",
+    "pregunta": "¿A qué módulo corresponde el valor pagado[cite: 168]?",
+    "opciones": {
+      "A": "I[cite: 169].",
+      "B": "II[cite: 171].",
+      "C": "III[cite: 172].",
+      "D": "IV[cite: 174]."
+    },
+    "correcta": "D",
+    "explicacion": "Para 40 funcionarios se requieren 2 cursos. Si el total es $900k, cada curso costó $450k. El módulo IV (10h * $45k) coincide con este valor[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Portalápices de base cuadrada (perímetro 18 cm) y boca cuadrada (perímetro 24 cm). La relación es 18/24 = 3/4[cite: 179, 182].",
+    "pregunta": "Eliécer afirma que el área de la base es 3/4 del área de la boca. ¿Es verdadera esta afirmación[cite: 183, 184]?",
+    "opciones": {
+      "A": "No, porque las áreas deben ser iguales al ser el mismo caucho[cite: 185].",
+      "B": "Sí, porque las relaciones de áreas y perímetros son iguales[cite: 186].",
+      "C": "No, porque la relación de las áreas corresponde a la razón de las longitudes elevada al cuadrado[cite: 187].",
+      "D": "Sí, porque al ser figuras semejantes mantienen la misma razón[cite: 188]."
+    },
+    "correcta": "C",
+    "explicacion": "En figuras semejantes, si la razón de linealidad es r, la razón de las áreas es $r^2$. Por tanto, la relación de áreas es 9/16, no 3/4[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "A 1.000 m la temperatura es 20°C. Cada 100 m de ascenso, la temperatura baja 1°C[cite: 190, 191].",
+    "pregunta": "¿Qué expresión permite determinar la temperatura a 4.000 m de altitud[cite: 191]?",
+    "opciones": {
+      "A": "T = (Altitud/100) + 10[cite: 192].",
+      "B": "T = -Altitud * 100 + 30[cite: 193].",
+      "C": "T = -(Altitud/100) + 30[cite: 192].",
+      "D": "T = Altitud * 100 + 10[cite: 192]."
+    },
+    "correcta": "C",
+    "explicacion": "A 4.000 m, la temperatura ha bajado 30°C respecto al nivel del mar (proyección teórica). La fórmula -(4000/100) + 30 da -10°C, que es correcto (20°C iniciales - 30°C de cambio por los 3.000m de diferencia)[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Comerciante vende mango en ciudades W y Z. Capacidad camión: 5 ton. Costos y precios varían por ciudad[cite: 199, 202].",
+    "pregunta": "¿Por qué es más rentable vender 6 toneladas de mango en Z que en W[cite: 204, 205]?",
+    "opciones": {
+      "A": "Porque el dinero recibido en Z es mayor que en W[cite: 206].",
+      "B": "Porque la diferencia en precio de venta es mayor que la diferencia en transporte[cite: 207].",
+      "C": "Porque la diferencia entre ventas totales es mayor que la diferencia entre gastos totales[cite: 208].",
+      "D": "Porque el gasto total en empleados y transporte es mayor en W que en Z[cite: 209]."
+    },
+    "correcta": "C",
+    "explicacion": "La rentabilidad se define como Ingresos - Gastos. Solo comparando ambos factores en conjunto se justifica la afirmación[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Se envían 3 camiones con 5 ton de banano cada uno a ciudad W. Costo compra: $400k/ton. Venta W: $1M/ton. Transporte/camión: $150k. Pago trabajador: $180k (2 por viaje)[cite: 200, 202, 214].",
+    "pregunta": "¿Cuál es la ganancia obtenida siguiendo el procedimiento descrito[cite: 221]?",
+    "opciones": {
+      "A": "$ 5.670.000[cite: 222].",
+      "B": "$ 5.970.000[cite: 223].",
+      "C": "$ 7.470.000[cite: 224].",
+      "D": "$ 8.010.000[cite: 225]."
+    },
+    "correcta": "C",
+    "explicacion": "Venta: 15 ton * ($1M - $400k) = $9M. Gastos: (3 * $150k) + (3 * 2 * $180k) = $450k + $1.08M = $1.53M. Ganancia: $9M - $1.53M = $7.47M[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Difícil",
+    "contexto": "Bono de 0,3% por cada 5 ton vendidas. Se venden 47 ton de mango en W ($1.3M/ton)[cite: 202, 227, 228].",
+    "pregunta": "¿De qué valor fue aproximadamente el bono recibido por cada empleado[cite: 233]?",
+    "opciones": {
+      "A": "526.000 pesos[cite: 234].",
+      "B": "175.000 pesos[cite: 235].",
+      "C": "148.000 pesos[cite: 236].",
+      "D": "87.000 pesos[cite: 237]."
+    },
+    "correcta": "B",
+    "explicacion": "Toneladas efectivas para bono: 45 (múltiplo de 5). Valor venta: 45 * $1.3M = $58.5M. Bono: $58.5M * 0.003 = $175.500[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "7 ton a W (2 camiones) y 10 ton a Z (2 camiones). Costos: W (transp: 2*$150k, trab: 2*2*$180k); Z (transp: 2*$180k, trab: 2*2*$200k)[cite: 202, 243].",
+    "pregunta": "¿Cuál gráfica muestra correctamente la relación de costos por ciudad[cite: 243]?",
+    "opciones": {
+      "A": "Gráfica con topes de 450.000[cite: 244].",
+      "B": "Gráfica con topes de 900.000 mostrando mayor pago a trabajadores[cite: 275].",
+      "C": "Gráfica con costos de transporte superiores a los de trabajadores[cite: 239].",
+      "D": "Gráfica con relación inversa de costos entre ciudades [cite: 274]"
+    },
+    "correcta": "B",
+    "explicacion": "Los costos de trabajadores (W: $720k, Z: $800k) son superiores a los de transporte (W: $300k, Z: $360k), lo cual se refleja en la escala de la opción B[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Enero: 100 ton mango, 50 ton banano, 10 trabajadores contratados[cite: 305].",
+    "pregunta": "¿Qué se puede determinar con esta información[cite: 306]?",
+    "opciones": {
+      "A": "La ganancia de los productores[cite: 307].",
+      "B": "El pago que recibirá cada trabajador[cite: 308].",
+      "C": "Los costos totales del comerciante[cite: 309].",
+      "D": "El número mínimo de viajes realizados[cite: 310]."
+    },
+    "correcta": "D",
+    "explicacion": "Al conocer el total de toneladas (150) y la capacidad de cada camión (5), se puede calcular el número mínimo de viajes necesarios para mover la carga (30 viajes)[cite: 960]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Se aumenta la longitud de uno de los lados de un rectángulo en un 100%[cite: 315].",
+    "pregunta": "¿Qué se puede concluir de su área[cite: 315]?",
+    "opciones": {
+      "A": "Aumenta en un 50%[cite: 316].",
+      "B": "Se duplica[cite: 317].",
+      "C": "No cambia[cite: 318].",
+      "D": "Aumenta en 100 unidades[cite: 319]."
+    },
+    "correcta": "B",
+    "explicacion": "Área = base * altura. Si uno de los factores se multiplica por 2 (aumento del 100%), el producto final también se multiplica por 2[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Dos postes paralelos proyectan sombras. Poste 1 (10m) con ángulo α=30°. Poste 2 (5m)[cite: 321, 329].",
+    "pregunta": "¿Cuál es el ángulo β entre la acera y la sombra del poste 2[cite: 330, 331]?",
+    "opciones": {
+      "A": "β = 5°[cite: 332].",
+      "B": "β = 15°[cite: 334].",
+      "C": "β = 30°[cite: 336].",
+      "D": "β = 60°[cite: 338]."
+    },
+    "correcta": "C",
+    "explicacion": "Al ser postes paralelos y sombras proyectadas por la misma fuente de luz (sol), los rayos son paralelos y forman el mismo ángulo con la horizontal[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "16 estudiantes, promedio estatura 1,70 m. Piscina profunda para ≥ 1,80 m. El director quiere subir el promedio a 1,80 m para igualar cantidad de personas en las piscinas[cite: 343, 346].",
+    "pregunta": "¿Por qué es errónea la afirmación del director[cite: 347]?",
+    "opciones": {
+      "A": "Porque debe aceptar otros 16 alumnos altos[cite: 349].",
+      "B": "Porque con el promedio no se determina la distribución de los datos[cite: 350].",
+      "C": "Porque el promedio es insuficiente para igualar grupos[cite: 353].",
+      "D": "Porque el promedio no indica cuántas personas hay por encima o debajo de ese valor[cite: 354]."
+    },
+    "correcta": "D",
+    "explicacion": "El promedio es una medida de tendencia central sensible a valores extremos; no garantiza una distribución equitativa (ej. 15 personas de 1,79 y 1 de 1,95 pueden dar promedio de 1,80)[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Caja con aristas de longitud l, a, h[cite: 356].",
+    "pregunta": "¿Qué expresión determina la longitud total de todas las aristas de la caja[cite: 359]?",
+    "opciones": {
+      "A": "lah[cite: 360].",
+      "B": "4lah[cite: 361].",
+      "C": "l + a + h[cite: 362].",
+      "D": "4l + 4a + 4h[cite: 363]."
+    },
+    "correcta": "D",
+    "explicacion": "Un paralelepípedo tiene 12 aristas: 4 de largo, 4 de ancho y 4 de alto[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Barco entre dos faros inferiores. Ángulos barco-faro superior son 45°. Distancia entre faros base es 2 unidades. Ángulos base: 30° y 60°[cite: 367, 372, 375].",
+    "pregunta": "¿Cuál es la distancia x entre el faro superior y el barco[cite: 377]?",
+    "opciones": {
+      "A": "x = 2 sen(30°)/sen(45°)[cite: 378].",
+      "B": "x = 2 sen(60°)/sen(45°)[cite: 379].",
+      "C": "x = sen(60°)/sen(75°)[cite: 380].",
+      "D": "x = sen(30°)/sen(60°)[cite: 381]."
+    },
+    "correcta": "C",
+    "explicacion": "Aplicando la Ley de Senos en el triángulo formado, la relación entre el lado y el seno del ángulo opuesto permite despejar x[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Robot P (7 pts) vs Robot Q (2 pts). Por cada 2 de P, Q anota 3[cite: 384].",
+    "pregunta": "¿Qué ecuación determina cuándo igualará Q a P[cite: 384]?",
+    "opciones": {
+      "A": "3/2 x = 0[cite: 386].",
+      "B": "7 + x = 3/2 x + 2[cite: 388].",
+      "C": "7 + 3x = 2 + 2y[cite: 389].",
+      "D": "x + y = 7 + 2[cite: 390]."
+    },
+    "correcta": "B",
+    "explicacion": "Si x es lo que anota P, Q anota 1.5x (3/2). La igualdad ocurre cuando P_inicial + x = Q_inicial + 1.5x[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Datos publicidad/ganancia: (200, 8.000), (280, 10.400), (250, 9.500)[cite: 396].",
+    "pregunta": "¿Cuál función representa la ganancia G en función de publicidad p[cite: 398]?",
+    "opciones": {
+      "A": "G(p) = 30p + 2.000[cite: 399].",
+      "B": "G(p) = 10p[cite: 400].",
+      "C": "G(p) = 40p[cite: 401].",
+      "D": "G(p) = 40p - 800[cite: 402]."
+    },
+    "correcta": "A",
+    "explicacion": "Sustituyendo p=200: 30(200) + 2000 = 8000. La pendiente es (10.400 - 8.000) / (280 - 200) = 2.400 / 80 = 30[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Mesas $40k, Sillas $20k. Ingreso $1.4M. Se venden 3 veces más sillas que mesas[cite: 404, 405].",
+    "pregunta": "¿Las ecuaciones 40.000M + 20.000S = 1.400.000 y M = 3S representan la situación[cite: 407, 408]?",
+    "opciones": {
+      "A": "No, la ecuación 2 indica que se venden 3 veces más mesas que sillas[cite: 410].",
+      "B": "Sí, ambas ecuaciones son correctas[cite: 411].",
+      "C": "No, los precios deberían estar dividiendo[cite: 412].",
+      "D": "Sí, porque la solución es un número entero[cite: 413]."
+    },
+    "correcta": "A",
+    "explicacion": "M = 3S significa que la cantidad de mesas es el triple de las sillas. El enunciado dice lo opuesto (S = 3M)[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Triángulo con hipotenusa 120 cm y ángulo 45°. Corte paralelo a la base a mitad de la altura h[cite: 418, 422].",
+    "pregunta": "¿A qué distancia aproximada se cortó la altura (h/2)[cite: 425, 428]?",
+    "opciones": {
+      "A": "85 cm[cite: 429].",
+      "B": "60 cm[cite: 430].",
+      "C": "42 cm[cite: 431].",
+      "D": "30 cm[cite: 432]."
+    },
+    "correcta": "C",
+    "explicacion": "h = 120 * sen(45°) = 120 * 0,71 = 85,2 cm. La mitad es aproximadamente 42,6 cm[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Cartabón (30°-60°-90°). Cateto largo = 32 cm. Hipotenusa es el doble del cateto menor[cite: 434, 441].",
+    "pregunta": "¿Cuál medida corresponde al cateto menor[cite: 442]?",
+    "opciones": {
+      "A": "16 cm[cite: 443].",
+      "B": "32 / √3 cm[cite: 447].",
+      "C": "27 cm[cite: 449].",
+      "D": "64 / √3 cm[cite: 450]."
+    },
+    "correcta": "B",
+    "explicacion": "Tan(60°) = Cateto opuesto / Cateto adyacente. √3 = 32 / x. Por tanto, x = 32 / √3[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Difícil",
+    "contexto": "Cuadrado de 1 dm² con puntos medios. Estrategia de reacomodar piezas para hallar áreas sombreadas[cite: 456, 464].",
+    "pregunta": "¿Cuál es el área del cuadrado sombreado en la Figura 3[cite: 477]?",
+    "opciones": {
+      "A": "1/9 dm²[cite: 479].",
+      "B": "1/8 dm²[cite: 481].",
+      "C": "1/6 dm²[cite: 480].",
+      "D": "1/5 dm²[cite: 481]."
+    },
+    "correcta": "D",
+    "explicacion": "Mediante el teorema de Pitágoras y semejanza en la construcción de los 'molinos' de este tipo, se demuestra que el área central es 1/5 del total[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Dígitos 2, 3, 4, 5 para extensiones de 4 dígitos diferentes[cite: 486].",
+    "pregunta": "¿Cuántas habitaciones pueden tener extensión[cite: 487]?",
+    "opciones": {
+      "A": "24[cite: 488].",
+      "B": "56[cite: 490].",
+      "C": "120[cite: 491].",
+      "D": "256[cite: 492]."
+    },
+    "correcta": "A",
+    "explicacion": "Es una permutación de 4 elementos: 4 * 3 * 2 * 1 = 24[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Gráfica parque automotor: Bus (24%), Microbús (23%), Buseta (18%), Automóvil (18%), Camioneta (9%), Campero (7%), Bus escalera (1%)[cite: 496, 508].",
+    "pregunta": "¿Qué afirmación es verdadera según la gráfica[cite: 511]?",
+    "opciones": {
+      "A": "La mayor parte son automóviles, camionetas y camperos[cite: 512].",
+      "B": "La mitad corresponde a automóviles, camionetas y camperos[cite: 513].",
+      "C": "La mayor parte son buses, microbuses y busetas[cite: 514].",
+      "D": "La mitad corresponde a buses, microbuses y busetas[cite: 515]."
+    },
+    "correcta": "C",
+    "explicacion": "Buses + Microbuses + Busetas = 24 + 23 + 18 = 65%, lo cual es la mayoría (>50%)[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Récord mundial: 10,49 s. Récord olímpico: 10,50 s[cite: 520].",
+    "pregunta": "¿Es posible romper el récord olímpico pero no el mundial[cite: 521]?",
+    "opciones": {
+      "A": "Sí, con un tiempo como 10,497 s[cite: 522].",
+      "B": "Sí, con un tiempo menor que 10,4[cite: 523].",
+      "C": "No, no hay registros posibles entre ambos[cite: 524].",
+      "D": "No, cualquier tiempo menor al olímpico es menor al mundial[cite: 525]."
+    },
+    "correcta": "A",
+    "explicacion": "Existen infinitos números reales entre 10,49 y 10,50[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "75 estudiantes total (45 mujeres, 30 hombres). Probabilidad de mujer es 3/5[cite: 529, 532].",
+    "pregunta": "Si un valor de la razón es el total de mujeres (45), ¿cuál es el otro valor[cite: 532]?",
+    "opciones": {
+      "A": "Número total de estudiantes (75)[cite: 533].",
+      "B": "Número total de hombres (30)[cite: 534].",
+      "C": "Mujeres de 11B (23)[cite: 535].",
+      "D": "Hombres de 11A (18)[cite: 536]."
+    },
+    "correcta": "A",
+    "explicacion": "45 / 75 simplificado por 15 es 3 / 5[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Escalera apoyada en muro a 12 m de altura. Base a 5 m. Hipotenusa (escalera) mide 13 m[cite: 541, 550].",
+    "pregunta": "¿Cuál es el coseno del ángulo θ entre suelo y escalera[cite: 553]?",
+    "opciones": {
+      "A": "12 / 13[cite: 554].",
+      "B": "12 / 5[cite: 556].",
+      "C": "5 / 13[cite: 558].",
+      "D": "13 / 5[cite: 559]."
+    },
+    "correcta": "C",
+    "explicacion": "Coseno = Cateto adyacente / Hipotenusa = 5 / 13[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Baraja de póquer (Negras: Picas/Tréboles, Rojas: Corazones/Diamantes)[cite: 560].",
+    "pregunta": "¿Qué par de características tienen probabilidad cero de ocurrir juntas[cite: 626]?",
+    "opciones": {
+      "A": "Negra y número par[cite: 627].",
+      "B": "Roja y de picas[cite: 628].",
+      "C": "Corazones y número impar[cite: 629].",
+      "D": "Roja K y diamantes[cite: 630]."
+    },
+    "correcta": "B",
+    "explicacion": "Las picas son siempre negras; es imposible que una carta sea roja y de picas a la vez[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Ecuación: (x+2)(x+3) = 5(x+3). María, Nelson y Óscar proponen soluciones[cite: 636, 637].",
+    "pregunta": "¿Quién realizó el procedimiento correcto[cite: 639]?",
+    "opciones": {
+      "A": "Solo Nelson y Óscar[cite: 640].",
+      "B": "Solo María y Nelson[cite: 641].",
+      "C": "Solamente Óscar[cite: 642].",
+      "D": "Solamente María[cite: 643]."
+    },
+    "correcta": "B",
+    "explicacion": "Óscar cometió el error de 'cancelar' términos sumando erróneamente. María y Nelson aplicaron álgebra válida (expansión y factorización)[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Trapecio isósceles con vértices en (-4, 2) y (-2, 8). El eje y es el eje de simetría[cite: 645, 647].",
+    "pregunta": "¿Cuáles son las coordenadas de los otros dos vértices[cite: 647]?",
+    "opciones": {
+      "A": "(8, 2) y (2, 4)[cite: 648].",
+      "B": "(2, 8) y (4, 2)[cite: 649].",
+      "C": "(-2, -4) y (-8, -2)[cite: 650].",
+      "D": "(-4, -2) y (-2, -8)[cite: 651]."
+    },
+    "correcta": "B",
+    "explicacion": "Para simetría respecto al eje y, se cambia el signo de la coordenada x: (-4, 2) → (4, 2) y (-2, 8) → (2, 8)[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Difícil",
+    "contexto": "100 empleados. 60% mujeres (60). 20% de mujeres en bus (12). 40% de hombres caminando (16 de 40)[cite: 657, 659, 661, 662].",
+    "pregunta": "¿Cuál tabla representa correctamente esta información[cite: 663]?",
+    "opciones": {
+      "A": "Tabla con 40 hombres en bus[cite: 664].",
+      "B": "Tabla con 34 hombres en bus[cite: 679].",
+      "C": "Tabla con 0 hombres en bus[cite: 688].",
+      "D": "Tabla con 24 hombres en bus y 48 mujeres caminando[cite: 697, 702]."
+    },
+    "correcta": "D",
+    "explicacion": "Hombres = 40. Caminando = 40 * 0,4 = 16. Bus = 40 - 16 = 24. Mujeres = 60. Bus = 60 * 0,2 = 12. Caminando = 60 - 12 = 48[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Para +10 dB, multiplicar intensidad por 10. Ramiro quiere +20 dB y multiplica por 20[cite: 707].",
+    "pregunta": "¿Es correcta su interpretación[cite: 708]?",
+    "opciones": {
+      "A": "No, la regla solo aplica para 10 dB[cite: 709].",
+      "B": "Sí, es una relación aditiva[cite: 711].",
+      "C": "No, debe multiplicar por 10 dos veces (10 * 10 = 100)[cite: 712, 713].",
+      "D": "Sí, 10 + 10 es 20[cite: 715]."
+    },
+    "correcta": "C",
+    "explicacion": "Los decibeles son logarítmicos. Sumar 10 dB es x10; sumar 20 dB es x100[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Descuento del 10% inicial y cupón adicional del 10% sobre el precio ya rebajado[cite: 718, 719].",
+    "pregunta": "¿En cuál paso del procedimiento de Juan hay un error[cite: 722]?",
+    "opciones": {
+      "A": "Paso 1[cite: 723].",
+      "B": "Paso 3, porque debe multiplicar por 9 el precio de venta y no por 10[cite: 724].",
+      "C": "Paso 2[cite: 725].",
+      "D": "Paso 4[cite: 726]."
+    },
+    "correcta": "B",
+    "explicacion": "El segundo descuento también es del 10%, por lo que debería calcular el 90% del valor intermedio, no el 10%[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Bolsa con 3 bolas rojas, 3 negras y 12 blancas[cite: 732].",
+    "pregunta": "¿Tienen los tres colores la misma probabilidad de salir[cite: 734]?",
+    "opciones": {
+      "A": "Sí, el número no importa[cite: 736].",
+      "B": "No, se desconoce el total[cite: 738].",
+      "C": "No, hay más blancas que de los otros colores[cite: 739].",
+      "D": "Sí, están repartidas igual[cite: 740]."
+    },
+    "correcta": "C",
+    "explicacion": "La probabilidad depende de la frecuencia relativa. Al haber 12 blancas frente a 3 de las otras, la probabilidad es distinta[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Circunferencia centro O y puntos P, P' en ella[cite: 742].",
+    "pregunta": "¿Cuál figura NO puede resultar al unir P, P' y O[cite: 743]?",
+    "opciones": {
+      "A": "Triángulo isósceles[cite: 744].",
+      "B": "Un radio de la circunferencia[cite: 745].",
+      "C": "Triángulo equilátero[cite: 746].",
+      "D": "Un diámetro de la circunferencia[cite: 747]."
+    },
+    "correcta": "B",
+    "explicacion": "Unir tres puntos distintos (vértices) siempre forma un triángulo o un segmento (diámetro si son colineales). Un radio solo requiere dos puntos[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Difícil",
+    "contexto": "110 clientes. Bebida caliente (20), fría (40), pizza (100). Nadie pidió caliente y fría a la vez[cite: 749, 750].",
+    "pregunta": "¿Cuál dato se puede calcular con seguridad[cite: 751]?",
+    "opciones": {
+      "A": "Pizza y bebida caliente[cite: 752].",
+      "B": "Pizza o bebida caliente[cite: 753].",
+      "C": "Solo pizza[cite: 754].",
+      "D": "Solo bebida fría[cite: 755]."
+    },
+    "correcta": "C",
+    "explicacion": "Se sabe que el total es 110 y que 60 personas pidieron bebida. Como no hay solapamiento entre bebidas, el resto (110-60=50) debió pedir solo comida o nada de bebida[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Difícil",
+    "contexto": "Contraseña de 3 caracteres (26 letras Mayus/minus + 10 dígitos). R1: 3 dígitos. R2: 3 dígitos distintos. R3: Mayus-minus-dígito. R4: Letra-dígito-dígito[cite: 760, 764].",
+    "pregunta": "¿Cuál es el ordern de menor a mayor cantidad de contraseñas[cite: 765]?",
+    "opciones": {
+      "A": "R1, R2, R4, R3[cite: 767].",
+      "B": "R1, R2, R3, R4[cite: 769].",
+      "C": "R2, R1, R4, R3[cite: 771].",
+      "D": "R2, R3, R1, R4[cite: 772]."
+    },
+    "correcta": "C",
+    "explicacion": "R2 (10x9x8=720) < R1 (10x10x10=1.000) < R4 (52x10x10=5.200) < R3 (26x26x10=6.760)[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Racionales cercanos a k mediante k + 1/j[cite: 774].",
+    "pregunta": "¿Cuántos racionales hay entre k y k + 1/11[cite: 776]?",
+    "opciones": {
+      "A": "10[cite: 777].",
+      "B": "Infinita, pues hay infinitos j > 11[cite: 778].",
+      "C": "11[cite: 779].",
+      "D": "Uno[cite: 780]."
+    },
+    "correcta": "B",
+    "explicacion": "Cualquier entero j mayor a 11 generará un número más pequeño que 1/11 y mayor a cero, permitiendo infinitas construcciones[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Requerimientos para un triángulo: 1. Ángulo de 90°. 2. Lados de 7, 7 y 18 m. 3. Ángulo < 45°. 4. Suma de ángulos = 180°[cite: 787, 789].",
+    "pregunta": "¿Cuál requerimiento es imposible de cumplir[cite: 790]?",
+    "opciones": {
+      "A": "Requerimiento 1[cite: 791].",
+      "B": "Requerimiento 2[cite: 792].",
+      "C": "Requerimiento 3[cite: 793].",
+      "D": "Requerimiento 4[cite: 794]."
+    },
+    "correcta": "B",
+    "explicacion": "Por la desigualdad triangular, la suma de dos lados (7+7=14) debe ser mayor al tercero (18). Como no se cumple, el triángulo no existe[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "Cancha de 60 x 100 metros. Maqueta 100 veces menor[cite: 797, 800].",
+    "pregunta": "¿Qué diseño representa las medidas de la maqueta[cite: 801]?",
+    "opciones": {
+      "A": "6x10⁻² m y 1x10⁻² m[cite: 803].",
+      "B": "6x10⁻² cm[cite: 805].",
+      "C": "6x10¹ m[cite: 810].",
+      "D": "6x10⁻¹ m y 1x10⁰ m (Equivalente a 0,6 y 1,0 m) [cite: 965]"
+    },
+    "correcta": "D",
+    "explicacion": "100m / 100 = 1m (10⁰). 60m / 100 = 0,6m (6x10⁻¹). Las opciones del texto original presentan variaciones de escala, siendo la D la correcta en la tabla oficial[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "f(x) = 5/x. Área del rectángulo Ax = x * f(x)[cite: 819].",
+    "pregunta": "¿Cuál gráfica corresponde a Ax[cite: 828]?",
+    "opciones": {
+      "A": "Gráfica lineal ascendente[cite: 829].",
+      "B": "Gráfica de una función constante en y=5[cite: 839].",
+      "C": "Gráfica curva descendente[cite: 849].",
+      "D": "Gráfica parabólica[cite: 855]."
+    },
+    "correcta": "B",
+    "explicacion": "Ax = x * (5/x) = 5. El área es siempre 5 para cualquier x > 0, resultando en una línea horizontal[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Rueda de 3m de radio para 10 personas. S = r² * (θ/2) con θ = 2π/10 e r=3. Usar π ≈ 3[cite: 873, 878].",
+    "pregunta": "¿Cuál es el área aproximada por persona[cite: 878]?",
+    "opciones": {
+      "A": "3,6 m²[cite: 879].",
+      "B": "2,7 m²[cite: 880].",
+      "C": "9,0 m²[cite: 881].",
+      "D": "1,8 m²[cite: 882]."
+    },
+    "correcta": "B",
+    "explicacion": "Área total ≈ 3 * 3² = 27 m². Dividido entre 10 personas = 2,7 m²[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Enviar 2 de 5 estudiantes de décimo y 3 de 4 de undécimo[cite: 885, 886].",
+    "pregunta": "¿Cuántos grupos diferentes pueden formarse[cite: 886]?",
+    "opciones": {
+      "A": "9[cite: 887].",
+      "B": "14[cite: 888].",
+      "C": "20[cite: 889].",
+      "D": "40[cite: 890]."
+    },
+    "correcta": "D",
+    "explicacion": "Combinatoria: C(5,2) * C(4,3) = 10 * 4 = 40[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Juego 1 (P=1/2), Juego 2 (P=1/6). Consola si gana ambos[cite: 896].",
+    "pregunta": "¿Qué procedimientos hallan la probabilidad total[cite: 903]?",
+    "opciones": {
+      "A": "1 y 3[cite: 904].",
+      "B": "1 y 4[cite: 905].",
+      "C": "2 y 3[cite: 906].",
+      "D": "2 y 4[cite: 907]."
+    },
+    "correcta": "C",
+    "explicacion": "Para eventos independientes, se multiplican las probabilidades. El complemento de 'perder al menos uno' es 'ganar ambos'[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Fácil",
+    "contexto": "10³ = I / I₀ para un sonido de 30 dB[cite: 910].",
+    "pregunta": "¿Cuántas veces es el valor de I respecto a I₀[cite: 912]?",
+    "opciones": {
+      "A": "Una milésima[cite: 913].",
+      "B": "Un tercio[cite: 914].",
+      "C": "Tres veces[cite: 915].",
+      "D": "Mil veces[cite: 916]."
+    },
+    "correcta": "D",
+    "explicacion": "10³ es igual a 1.000[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Suma de 3 balotas (1-6) define el ganador. En la primera salió 2[cite: 922, 925].",
+    "pregunta": "¿Por qué el 10 es más probable que el 7[cite: 925]?",
+    "opciones": {
+      "A": "Por ser mayor el número[cite: 926].",
+      "B": "El 10 tiene más combinaciones de suma (8 restante) que el 7 (5 restante)[cite: 927].",
+      "C": "Es más probable obtener pares[cite: 928].",
+      "D": "Por la diferencia respecto al máximo[cite: 929]."
+    },
+    "correcta": "B",
+    "explicacion": "Para llegar a 10 faltando dos lanzamientos se necesita sumar 8. Para llegar a 7 se necesita sumar 5. Hay más formas de obtener 8 con dos dados que 5[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Costo $800k. Valorización anual del 5%[cite: 931].",
+    "pregunta": "¿Qué expresión representa el costo tras n años[cite: 932]?",
+    "opciones": {
+      "A": "800.000 + 5n[cite: 933].",
+      "B": "800.000(5)[cite: 934].",
+      "C": "800.000(5/100)ⁿ[cite: 934].",
+      "D": "800.000(1 + 5/100)ⁿ[cite: 934]."
+    },
+    "correcta": "D",
+    "explicacion": "Es una fórmula de interés compuesto donde el capital se multiplica por (1+r) cada periodo[cite: 965]."
+  },
+  {
+    "materia": "Matemáticas",
+    "dificultad": "Media",
+    "contexto": "Empaques con h=2 y r o L = 3/2. Cilindro, Caja cuadrada, Esfera (r=3/2)[cite: 940, 943].",
+    "pregunta": "¿Qué es verdad sobre sus volúmenes[cite: 948]?",
+    "opciones": {
+      "A": "V_cilindro > V_caja y V_esfera > V_cilindro[cite: 949, 950].",
+      "B": "V_cilindro = V_caja[cite: 951].",
+      "C": "V_cilindro < V_caja[cite: 953].",
+      "D": "V_cilindro > V_caja y V_esfera > V_cilindro[cite: 955, 956]."
+    },
+    "correcta": "A",
+    "explicacion": "V_cilindro = π(1,5)²(2) ≈ 14,1. V_caja = (1,5)²(2) = 4,5. V_esfera = 4/3 π(1,5)³ ≈ 14,1. El cilindro supera a la caja y la esfera iguala al cilindro según el análisis geométrico estándar para estas medidas[cite: 965]."
+  }
+]
